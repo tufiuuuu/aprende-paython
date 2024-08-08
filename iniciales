@@ -1,0 +1,28 @@
+# Sonny Li
+#Datos cusioso: Toque la guitarra de una banda llamada Attica.
+var1="  SSS      L"
+var2=" S   S     L"
+var3=" S         L"
+var4="  SSS      L"
+var5="     S     L"
+var6=" S   S     L"
+var7="  SSS      LLLLL"
+
+print(var1)
+print(var2)
+print(var3)
+print(var4)
+print(var5)
+print(var6)
+print(var7)
+
+nombre="""
+  JJJJJ   L
+    J     L
+    J     L
+    J     L
+  J J     L
+  J J     L
+   JJ     LLLLL
+"""
+print(nombre)
